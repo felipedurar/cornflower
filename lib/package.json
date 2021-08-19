@@ -1,0 +1,15 @@
+{
+  "name": "cornflowerweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/tsc"
+  },
+  "author": "Felipe Durar",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.2.3",
+    "express": "^4.16.4"
+  }
+}
